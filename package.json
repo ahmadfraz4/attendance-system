@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node src/index",
-    "start" : "node src/index"
+    "start": "node src/index"
   },
   "keywords": [],
   "author": "",
@@ -22,8 +22,6 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.3.4",
     "mongoose-sequence": "^6.0.1",
-    "multer": "^1.4.5-lts.1",
-    "node-cron": "^3.0.3",
-    "puppeteer": "^22.9.0"
+    "multer": "^1.4.5-lts.1"
   }
 }
