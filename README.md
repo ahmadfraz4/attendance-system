@@ -9,8 +9,9 @@ How to run project on local system:
 - npm run dev
 5-Open Browser and enter this localhost url : localhost:3000
 
-Description of Project :
-# Students Can mark attendance after login & can see their previous attendances. Once a student mark his/her attendance , They can't mark it again till Next Day . Students can send Leave Requests to Admin.
+# Description of Project :
 
-# Admin Panel : Admin can ( Add, Delete, & Update Student's id )
+1- Students Can mark attendance after login & can see their previous attendances. Once a student mark his/her attendance , They can't mark it again till Next Day . Students can send Leave Requests to Admin.
+
+2- Admin Panel : Admin can ( Add, Delete, & Update Student's id )
 Admin can check previous attendance of Student & Can filter out attendance percentage by entering 2 random dates ( FROM - TO ). Admin can create full Attendance report of any Student & can approve or reject the Student Leave Request.
