@@ -1,5 +1,7 @@
 Attendance Management System 📅 using ( MERN ). 🍃
-How to run project on local system:
+
+## How to run project on local system:
+
 1-Make Sure U have mongodb installed in your system.
 2-Open project and go to conn.js file using following path :- src/database/conn.js .
 3-Replace ( process.env.MONGOURI ) by your local mongodb uri.
@@ -9,7 +11,7 @@ How to run project on local system:
 - npm run dev
 5-Open Browser and enter this localhost url : localhost:3000
 
-# Description of Project :
+## Description of Project :
 
 1- Students Can mark attendance after login & can see their previous attendances. Once a student mark his/her attendance , They can't mark it again till Next Day . Students can send Leave Requests to Admin.
 
