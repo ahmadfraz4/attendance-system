@@ -3,12 +3,16 @@ Attendance Management System 📅 using ( MERN ). 🍃
 ## How to run project on local system:
 
 1-Make Sure U have mongodb installed in your system.
+
 2-Open project and go to conn.js file using following path :- src/database/conn.js .
+
 3-Replace ( process.env.MONGOURI ) by your local mongodb uri.
 
 4-Open Project's Root directory & type following commands :-
+
 - npm install
 - npm run dev
+
 5-Open Browser and enter this localhost url : localhost:3000
 
 ## Description of Project :
